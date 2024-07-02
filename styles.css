@@ -1,0 +1,26 @@
+#container {
+    width: 500px;
+    height: 550px;
+
+    background-color: white;
+
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+#card {
+    margin: 25px;
+
+    font-size: 18px;
+    align-content: center;
+    font-family: sans-serif;
+}
+img {
+    width: 75%;
+    margin-left: 12.5%;
+}
